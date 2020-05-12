@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Pretest</string>
+    <string name="Internet_connection">We can not detect any internet connectivity. Please check your internet connection and try again.</string>
+    <string name="profile_desc">Rowan Sebastian Atkinson CBE is an English actor,  comedian and screenwriter</string>
+    <string name="profile_title">Mr Bean</string>
+    <string name="posts">posts</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+    <string name="msg_error_unable_select_profile_pic">Unable to set profile image. Please try again!</string>
+    <string name="lbl_set_profile_photo">Set profile image</string>
+    <string name="lbl_take_camera_picture">Take a picture</string>
+    <string name="lbl_choose_from_gallery">Choose from gallery</string>
+    <string name="toast_image_intent_null">Image picker option is missing!</string>
+    <string name="dialog_permission_title">Grant Permissions</string>
+    <string name="dialog_permission_message">This app needs permission to use this feature. You can grant them in app settings.</string>
+    <string name="go_to_settings">GOTO SETTINGS</string>
+
+
+    <string name="agora_app_id">13fca12d438d4aebb51bd412568ea32d</string>
+    <!-- Obtain a temp Access Token at https://dashboard.agora.io -->
+    <!-- You will need to deploy your own token server for production release -->
+    <!-- Leave this value empty if Security keys/Token is not enabled for your project -->
+    <string name="agora_access_token"></string>
+
+    <!-- MainActivity -->
+    <string name="start_call_doctor">Start Calling Your Doctor</string>
+    <string name="start_call_patient">Start Calling Your Patient</string>
+    <string name="main_welcome">Welcome To</string>
+    <string name="app_name_simple" translatable="false">Emedic plus</string>
+    <string name="identifier_format">Your Identifier Code: %d</string>
+    <string name="share_code_hint">Share the code so that others can call you</string>
+    <string name="powered_by_agora" translatable="false">Powered by emedic+</string>
+    <string name="need_necessary_permissions">Necessary permissions acquired</string>
+
+    <!-- Dial Activity -->
+    <string name="incomplete_dial_number">The number you dialed is incomplete</string>
+    <string name="peer_not_online">Peer has not logged on</string>
+
+    <!-- Calling Activity -->
+    <string name="receiving_call">Incoming&#8230;</string>
+    <string name="calling_out">Calling&#8230;</string>
+
+    <!-- Video Activity -->
+    <string name="message_wrong_number">Wrong Peer number</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+
+</resources>
